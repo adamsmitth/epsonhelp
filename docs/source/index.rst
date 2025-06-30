@@ -22,7 +22,7 @@ Live Chat with Epson Support
 
 Prefer not to call? Epson offers real-time help through its official support chat.
 
-- Visit: https://www.epson.com/Support
+- Visit: our website
 - Click on **"Chat with Us"** and fill in your printer details
 - Live Chat Hours: Monday to Friday, 7:00 AM – 4:00 PM PT
 
@@ -31,7 +31,7 @@ Email Epson Customer Service
 
 If your issue isn’t urgent, you can also email Epson for help:
 
-- Go to: https://www.epson.com/Support
+- Go to: our website.
 - Search and select your printer model
 - Click on **"Email Us"** and complete the contact form
 - Response Time: Typically within 24–48 business hours
@@ -49,7 +49,7 @@ Epson’s website also provides self-service tools, including:
 - Firmware Updates
 - Product Registration & Warranty Info
 
-Start here: https://www.epson.com/Support
+Start here: https://epsonofflineprinter.com/
 
 Stay Safe: Avoid Third-Party Scams
 ----------------------------------
@@ -72,4 +72,4 @@ Conclusion
 
 Epson customer service is available via phone, live chat, and email to assist you with all printer-related concerns. For best results, gather your printer model and error details before contacting them.
 
-Visit the official support site to begin: https://www.epson.com/Support
+Visit the official support site to begin: https://epsonofflineprinter.com/
